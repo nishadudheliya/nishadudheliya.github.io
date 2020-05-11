@@ -38,8 +38,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 
--Hello, world!
--Code structure
+- Hello, world!
+* Code structure
 -The modern mode, "use strict"
 -Variables
 -Data types
