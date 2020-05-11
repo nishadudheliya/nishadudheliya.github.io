@@ -35,3 +35,25 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+-Hello, world!
+-Code structure
+-The modern mode, "use strict"
+-Variables
+-Data types
+-Interaction: alert, prompt, confirm
+-Type Conversions
+-Basic operators, maths
+-Comparisons
+-Conditional operators: if, '?'
+-Logical operators
+-Nullish coalescing operator '??'
+-Loops: while and for
+-The "switch" statement
+-Functions
+-Function expressions
+-Arrow functions, the basics
+-JavaScript specials
+-Code quality
